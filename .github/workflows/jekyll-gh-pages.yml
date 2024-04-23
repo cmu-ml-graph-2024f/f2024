@@ -40,7 +40,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://cmu-ml4graph.github.io/s2024
+      url: https://cmu-ml-graph-2024f.github.io/f2024
     runs-on: ubuntu-latest
     needs: build
     steps:
