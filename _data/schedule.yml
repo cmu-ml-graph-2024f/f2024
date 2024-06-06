@@ -3,18 +3,18 @@ schedule:
     title: Course overview and introduction
     theme: Overview
     kind: Lecture
-    date: 2024-01-16T12:30
+    date: 2024-08-27T11:00
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/1.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/1.pdf
         name: slides
 
   - number: 2
     title: "Word Embedding"
     theme: DL1
     kind: Lecture
-    date: 2024-01-18T12:30
+    date: 2024-08-29T11:00
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/2.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/2.pdf
         name: slides
     main:
       - url: https://arxiv.org/abs/1301.3781
@@ -26,7 +26,7 @@ schedule:
     title: "Recurrent Neural Network"
     theme: DL2
     kind: Lecture
-    date: 2024-01-23T12:30
+    date: 2024-01-23T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/3.pdf
         name: slides
@@ -55,7 +55,7 @@ schedule:
     title: Neural Attention Models
     theme: DL4
     kind: Lecture
-    date: 2024-01-30T12:30
+    date: 2024-01-30T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/5.pdf
         name: slides
@@ -70,7 +70,7 @@ schedule:
     title: Language Model Architectures (Invited Lecture by Ruohong Zhang)
     theme: DL5
     kind: Guest speaker
-    date: 2024-02-01T12:30
+    date: 2024-02-01T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/6.pdf
         name: slides
@@ -82,7 +82,7 @@ schedule:
     title: "Binary Logistic Regression & Convexity"
     theme: CLS1
     kind: Lecture
-    date: 2024-02-06T12:30
+    date: 2024-02-06T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/7.pdf
         name: slides
@@ -94,7 +94,7 @@ schedule:
     title: "Multi-class Logistic Regression & Decision Boundaries"
     theme: CLS2
     kind: Lecture
-    date: 2024-02-08T12:30
+    date: 2024-02-08T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/8.pdf
         name: slides
@@ -106,7 +106,7 @@ schedule:
     title: "Stochastic Gradient Descent (SGD), Evaluation Metrics"
     theme: CLS3
     kind: Lecture
-    date: 2024-02-13T12:30
+    date: 2024-02-13T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/9.pdf
         name: slides
@@ -118,7 +118,7 @@ schedule:
     title: Extreme-scale Neural Classifiers (XTransformer, AttentionXML)
     theme: CLS4
     kind: Lecture
-    date: 2024-02-15T12:30
+    date: 2024-02-15T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/10.pdf
         name: slides
@@ -132,7 +132,7 @@ schedule:
     title: "Social Popularity Analysis I: HITS & PageRank"
     theme: Graph 1
     kind: Lecture
-    date: 2024-02-20T12:30
+    date: 2024-02-20T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/11.pdf
         name: slides
@@ -146,7 +146,7 @@ schedule:
     title: "Social Popularity Analysis II: Personalized & Topic-sensitive PageRank"
     theme: Graph 2
     kind: Lecture
-    date: 2024-02-22T12:30
+    date: 2024-02-22T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/12.pdf
         name: slides
@@ -161,7 +161,7 @@ schedule:
     title: "Matrix Factorization (Eigendecompostion and SVD)"
     theme: Graph 3
     kind: Lecture
-    date: 2024-02-27T15:30
+    date: 2024-02-27T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/13.pdf
         name: slides
@@ -170,8 +170,7 @@ schedule:
     title: ""
     theme: <mark><b> Midterm Exam on Lectures 1-13 </b></mark>
     kind: Exam
-    date: 2024-02-29T15:30
-    note:
+    date: 2024-02-29T11:00
       - title: in the same classroom and time slot as a regular class
 
   - number: ""
