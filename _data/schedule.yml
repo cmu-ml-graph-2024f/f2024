@@ -169,7 +169,7 @@ schedule:
   - number: ""
     title: ""
     theme: <mark><b> Midterm Exam on Lectures 1-13 </b></mark>
-    kind: Exam
+    kind: Midterm Exam
     date: 2024-10-10T11:00
       - title: in the same classroom and time slot as a regular class
 
@@ -189,7 +189,7 @@ schedule:
     title: "Node Embedding"
     theme: Graph 4
     kind: Lecture
-    date: 2024-03-12T12:30
+    date: 2024-10-22T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/14.pdf
         name: slides
@@ -203,7 +203,7 @@ schedule:
     title: "Graph Neural Networks (I)"
     theme: Graph 5
     kind: Lecture
-    date: 2024-03-14T12:30
+    date: 2024-10-24T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/15.pdf
         name: slides
@@ -220,7 +220,7 @@ schedule:
     title: "Graph Neural Networks (II)"
     theme: Graph 6
     kind: Lecture
-    date: 2024-03-19T12:30
+    date: 2024-10-29T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/16.pdf
         name: slides
@@ -234,7 +234,7 @@ schedule:
     title: "Knowledge Graph Embedding (I): TransE, RotatE (Invited Lectured by Zhiqing Sun)"
     theme: Graph 7
     kind: Guest Speaker
-    date: 2024-03-21T12:30
+    date: 2024-10-31T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/17.pdf
         name: slides
@@ -247,7 +247,7 @@ schedule:
     # title: "ML for NP-Complete Problems (II): with RNN, Transformer, Active Search"
     theme: Graph 8
     kind: Lecture
-    date: 2024-03-26T12:30
+    date: 2024-11-05T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/18.pdf
         name: slides
@@ -259,7 +259,7 @@ schedule:
     title: "ML for NP-Complete Problems (I): Autoregressive Neural Solvers"
     theme: Graph 9
     kind: Lecture
-    date: 2024-03-28T12:30
+    date: 2024-11-07T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/19.pdf
         name: slides
@@ -275,7 +275,7 @@ schedule:
     title: "ML for NP-Complete Problems (II): Non-autoregressive Neural Solvers"
     theme: Graph 10
     kind: Lecture
-    date: 2024-04-02T12:30
+    date: 2024-11-12T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/20.pdf
         name: slides
@@ -289,7 +289,7 @@ schedule:
     title: "ML for NP-Complete Problems (III): Other Neural CO Solvers (LLMs)"
     theme: Graph 11
     kind: Lecture
-    date: 2024-04-04T12:30
+    date: 2024-11-14T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/21.pdf
         name: slides
@@ -304,7 +304,7 @@ schedule:
     title: "Improving the Scalability of Graph Neural Networks (by Dr. Neil Shah at Snap Research)"
     theme: Graph 12
     kind: Guest Speaker
-    date: 2024-04-09T12:30
+    date: 2024-11-19T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/22.pdf
         name: slides
@@ -312,23 +312,11 @@ schedule:
       - url: https:https://arxiv.org/pdf/2109.12843.pdf
         title: "A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions"
 
-  - number: ""
-    title: Spring carnival (No class)
-    theme: Spring carnival (No class)
-    kind: No class
-    date: 2024-04-11T15:30
-
-  - number: ""
-    title: Spring carnival (No class)
-    theme: Spring carnival (No class)
-    kind: No class
-    date: 2024-04-13T15:30
-
   - number: 23
     title: "Machine Learning on Graph for Recommendation: User Coldstart, Exploration, and Efficiency (invited lecture by Dr. Yinglong Xia from Meta)"
     theme: Graph 13
     kind: Guest Speaker
-    date: 2024-04-16T12:30
+    date: 2024-11-21T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/23.pdf
         name: slides
@@ -340,7 +328,7 @@ schedule:
     title: "Reasoning with Heterogeneous Graphs (I)"
     theme: Graph 14
     kind: Lecture
-    date: 2024-04-18T12:30
+    date: 2024-11-26T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/24.pdf
         name: slides
@@ -350,11 +338,17 @@ schedule:
       - url: https://arxiv.org/pdf/2106.05234.pdf
         title: "Do Transformers Really Perform Bad for Graph Representation?"
 
+  - number: ""
+    title: Thanksgiving Break (No class)
+    theme: Thanksgiving Break (No class)
+    kind: No class
+    date: 2024-11-28T11:00
+
   - number: 25
     title: "Reasoning with Heterogeneous Graphs (II)"
     theme: Graph 15
     kind: Lecture
-    date: 2024-04-23T12:30
+    date: 2024-12-03T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/25.pdf
         name: slides
@@ -365,7 +359,7 @@ schedule:
   - number: ""
     title: ""
     theme: <mark><b> Final Exam on Lectures 14 - 25 </b></mark>
-    kind: Exam
-    date: 2024-04-25T12:30
+    kind: Final Exam
+    date: 2024-12-05T11:00
     note:
       - title: in the same classroom and time slot as a regular class
