@@ -112,7 +112,7 @@ schedule:
         name: slides          
     main:
       - url: https://www.youtube.com/watch?v=4u81xU7BIOc
-       title: "Andrew Ng 01 Classification 8 min"
+        title: "Andrew Ng 01 Classification 8 min"
     homework:
       - title: <b> HW2. Softmax with SGD </b>
       - title: <b> Due 2/27 11:59PM </b>
