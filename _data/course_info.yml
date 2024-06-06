@@ -12,8 +12,8 @@ exams: Open-book midterm and final exams, with a set of questions (about 10) and
 course_semester: "Fall 2024"
 course_dept: LTI
 course_num: 11-741/11-641/11-441
-classes: Tuesdays and Thursdays 12:30pm - 1:50pm
-room: NSH 1305
+classes: Tuesdays and Thursdays 11:00am - 12:20pm
+room: HH B131
 office_hours: See <a href="https://piazza.com/cmu/spring2024/11441741/home">Piazza</a>
 schoolname: "Carnegie Mellon University"
 schoolurl: "https://www.cmu.edu/"
@@ -25,7 +25,7 @@ instructors:
     webpage: https://www.cs.cmu.edu/~./yiming/
 
 teaching_assistants:
-  - name: Zhiqing Sun
+  - name: Shengyu Feng
     profile_pic: /_images/site/zhiqing.jpeg
     webpage: https://www.cs.cmu.edu/~zhiqings/
 #  - name: Zekai Li
