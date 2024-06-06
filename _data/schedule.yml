@@ -171,6 +171,7 @@ schedule:
     theme: <mark><b> Midterm Exam on Lectures 1-13 </b></mark>
     kind: Exam
     date: 2024-10-10T11:00
+    note:
       - title: in the same classroom and time slot as a regular class
 
   - number: ""
