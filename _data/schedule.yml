@@ -78,37 +78,65 @@ schedule:
       - url: "https://arxiv.org/abs/2005.14165"
         title: "Language Models are Few-Shot Learners"
 
+  - number: 6
+    title: Language Model Architectures (Invited Lecture by Ruohong Zhang)
+    theme: DL5
+    kind: Guest speaker
+    date: 2024-09-12T11:00
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/6.pdf
+        name: slides
+    main:
+      - url: "https://arxiv.org/abs/2005.14165"
+        title: "Language Models are Few-Shot Learners"
+
   - number: 7
-    title: "Binary Logistic Regression & Convexity"
-    theme: CLS1
-    kind: Lecture
+    title: "Scalable Alignment of Large Language Models Towards Human-Valued Principles, Truthfulness and Complex Reasoning (Invited Lectured by Zhiqing Sun)"
+    theme: DL6
+    kind: Guest Speaker
     date: 2024-09-17T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/7.pdf
         name: slides
-    main:
-      - url: https://www.youtube.com/watch?v=4u81xU7BIOc
-        title: "Andrew Ng 01 Classification 8 min"
+#    main:
+#      - url: https://www.youtube.com/watch?v=4u81xU7BIOc
+#       title: "Andrew Ng 01 Classification 8 min"
 
   - number: 8
-    title: "Multi-class Logistic Regression & Decision Boundaries"
-    theme: CLS2
+    title: "Binary Logistic Regression"
+    theme: CLS1
     kind: Lecture
     date: 2024-09-19T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/8.pdf
-        name: slides
+        name: slides          
+    main:
+      - url: https://www.youtube.com/watch?v=4u81xU7BIOc
+       title: "Andrew Ng 01 Classification 8 min"
     homework:
       - title: <b> HW2. Softmax with SGD </b>
       - title: <b> Due 2/27 11:59PM </b>
 
   - number: 9
-    title: "Stochastic Gradient Descent (SGD), Evaluation Metrics"
-    theme: CLS3
+    title: "Multi-class Logistic Regression & Decision Boundaries"
+    theme: CLS2
     kind: Lecture
     date: 2024-09-24T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/9.pdf
+        name: slides
+    homework:
+      - title: <b> HW2. Softmax with SGD </b>
+      - title: <b> Due 2/27 11:59PM </b>
+
+
+  - number: 10
+    title: "Stochastic Gradient Descent (SGD), Evaluation Metrics"
+    theme: CLS3
+    kind: Lecture
+    date: 2024-09-26T11:00
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/10.pdf
         name: slides
     main:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/Papers/Shalev-icml2007-subgradient.pdf
