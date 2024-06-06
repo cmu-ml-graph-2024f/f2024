@@ -26,7 +26,7 @@ schedule:
     title: "Recurrent Neural Network"
     theme: DL2
     kind: Lecture
-    date: 2024-01-23T11:00
+    date: 2024-09-03T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/3.pdf
         name: slides
@@ -40,7 +40,7 @@ schedule:
     title: "Convolutional Neural Networks"
     theme: DL3
     kind: Lecture
-    date: 2024-01-25T12:30
+    date: 2024-09-05T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/4.pdf
         name: slides
@@ -55,7 +55,7 @@ schedule:
     title: Neural Attention Models
     theme: DL4
     kind: Lecture
-    date: 2024-01-30T11:00
+    date: 2024-09-10T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/5.pdf
         name: slides
@@ -70,7 +70,7 @@ schedule:
     title: Language Model Architectures (Invited Lecture by Ruohong Zhang)
     theme: DL5
     kind: Guest speaker
-    date: 2024-02-01T11:00
+    date: 2024-09-12T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/6.pdf
         name: slides
@@ -82,7 +82,7 @@ schedule:
     title: "Binary Logistic Regression & Convexity"
     theme: CLS1
     kind: Lecture
-    date: 2024-02-06T11:00
+    date: 2024-09-17T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/7.pdf
         name: slides
@@ -94,7 +94,7 @@ schedule:
     title: "Multi-class Logistic Regression & Decision Boundaries"
     theme: CLS2
     kind: Lecture
-    date: 2024-02-08T11:00
+    date: 2024-09-19T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/8.pdf
         name: slides
@@ -106,7 +106,7 @@ schedule:
     title: "Stochastic Gradient Descent (SGD), Evaluation Metrics"
     theme: CLS3
     kind: Lecture
-    date: 2024-02-13T11:00
+    date: 2024-09-24T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/9.pdf
         name: slides
@@ -118,7 +118,7 @@ schedule:
     title: Extreme-scale Neural Classifiers (XTransformer, AttentionXML)
     theme: CLS4
     kind: Lecture
-    date: 2024-02-15T11:00
+    date: 2024-09-26T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/10.pdf
         name: slides
@@ -132,7 +132,7 @@ schedule:
     title: "Social Popularity Analysis I: HITS & PageRank"
     theme: Graph 1
     kind: Lecture
-    date: 2024-02-20T11:00
+    date: 2024-10-01T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/11.pdf
         name: slides
@@ -146,7 +146,7 @@ schedule:
     title: "Social Popularity Analysis II: Personalized & Topic-sensitive PageRank"
     theme: Graph 2
     kind: Lecture
-    date: 2024-02-22T11:00
+    date: 2024-10-03T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/12.pdf
         name: slides
@@ -161,7 +161,7 @@ schedule:
     title: "Matrix Factorization (Eigendecompostion and SVD)"
     theme: Graph 3
     kind: Lecture
-    date: 2024-02-27T11:00
+    date: 2024-10-08T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/13.pdf
         name: slides
@@ -170,19 +170,20 @@ schedule:
     title: ""
     theme: <mark><b> Midterm Exam on Lectures 1-13 </b></mark>
     kind: Exam
-    date: 2024-02-29T11:00
+    date: 2024-10-10T11:00
       - title: in the same classroom and time slot as a regular class
 
   - number: ""
-    title: Spring break
-    theme: Spring break
-    kind: Spring break
-    date: 2024-03-05T15:30
+    title: Fall break
+    theme: Fall break
+    kind: Fall break
+    date: 2024-10-15T11:00
+    
   - number: ""
-    title: Spring break
-    theme: Spring break
-    kind: Spring break
-    date: 2024-03-07T15:30
+    title: Fall break
+    theme: Fall break
+    kind: Fall break
+    date: 2024-10-17T11:00
     
   - number: 14
     title: "Node Embedding"
