@@ -49,7 +49,7 @@ schedule:
         title: "An Intuitive Explanation of Convolutional Neural Networks"
     homework:
       - title: <b> HW1. RNN & CNN classifiers. </b>
-      - title: <b> Due 2/8 11:59PM </b>
+      - title: <b> Due 9/19 11:59PM </b>
 
   - number: 5
     title: Neural Attention Models
@@ -115,7 +115,8 @@ schedule:
         title: "Andrew Ng 01 Classification 8 min"
     homework:
       - title: <b> HW2. Softmax with SGD </b>
-      - title: <b> Due 2/27 11:59PM </b>
+      - title: <b> Due 10/3 11:59PM </b>
+
 
   - number: 9
     title: "Multi-class Logistic Regression & Decision Boundaries"
@@ -125,9 +126,6 @@ schedule:
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/9.pdf
         name: slides
-    homework:
-      - title: <b> HW2. Softmax with SGD </b>
-      - title: <b> Due 2/27 11:59PM </b>
 
 
   - number: 10
@@ -183,7 +181,7 @@ schedule:
         title: "Topic-Sensitive PageRank"
     homework:
       - title: <b> HW3. PageRank methods. </b>
-      - title: <b> Due 3/26 11:59PM </b>
+      - title: <b> Due 10/24 11:59PM </b>
       
   - number: 13
     title: "Matrix Factorization (Eigendecompostion and SVD)"
@@ -243,7 +241,7 @@ schedule:
         title: "Graph Attention Networks"
     homework:
       - title: <b> HW4. Graph-based prediction tasks. </b>
-      - title: <b> Due 4/9 11:59PM </b>
+      - title: <b> Due 11/7 11:59PM </b>
 
   - number: 16
     title: "Graph Neural Networks (II)"
@@ -299,6 +297,9 @@ schedule:
         title: "Attention, Learn to Solve Routing Problems!"  
       - url: https://arxiv.org/pdf/1810.10659.pdf
         title: "Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search"
+    homework:
+      - title: <b> HW5. Node Embedding with TransE. </b>
+      - title: <b> Due 11/26 11:59PM </b>
 
   - number: 20
     title: "ML for NP-Complete Problems (II): Non-autoregressive Neural Solvers"
@@ -325,9 +326,6 @@ schedule:
     main:
       - url: https://arxiv.org/abs/2309.03409
         title: "Large Language Models as Optimizers"
-    homework:
-      - title: <b> HW5. Node Embedding with TransE. </b>
-      - title: <b> Due 4/25 11:59PM </b>
 
   - number: 22
     title: "Improving the Scalability of Graph Neural Networks (by Dr. Neil Shah at Snap Research)"
