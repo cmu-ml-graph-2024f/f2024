@@ -134,7 +134,7 @@ schedule:
     kind: Lecture
     date: 2024-10-01T11:00
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/10.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/11.pdf
         name: slides
     main:
       - url: https://arxiv.org/pdf/1811.01727.pdf
@@ -148,7 +148,7 @@ schedule:
     kind: Lecture
     date: 2024-10-03T11:00
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/11.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/12.pdf
         name: slides
     main:
       - url: https://www.cs.cmu.edu/~christos/courses/826-resources/PAPERS+BOOK/google-anatomy.pdf
@@ -162,7 +162,7 @@ schedule:
     kind: Lecture
     date: 2024-10-08T11:00
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/12.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/13.pdf
         name: slides
     main:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/Papers/haveliwala-www02-tspr.pdf
@@ -197,7 +197,7 @@ schedule:
     kind: Lecture
     date: 2024-10-08T11:00
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/13.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/14.pdf
         name: slides
   
   - number: 14
