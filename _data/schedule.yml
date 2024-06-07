@@ -116,7 +116,6 @@ schedule:
       - title: <b> HW2. Softmax with SGD </b>
       - title: <b> Due 2/27 11:59PM </b>
 
-
   - number: 10
     title: "Stochastic Gradient Descent (SGD), Evaluation Metrics"
     theme: CLS3
