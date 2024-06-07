@@ -66,17 +66,17 @@ schedule:
         title: "Attention Is All You Need"
 
 
-  - number: 6
-    title: Language Model Architectures (Invited Lecture by Ruohong Zhang)
-    theme: DL5
-    kind: Guest speaker
-    date: 2024-09-12T11:00
-    links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/6.pdf
-        name: slides
-    main:
-      - url: "https://arxiv.org/abs/2005.14165"
-        title: "Language Models are Few-Shot Learners"
+  # - number: 6
+  #   title: Language Model Architectures (Invited Lecture by Ruohong Zhang)
+  #   theme: DL5
+  #   kind: Guest speaker
+  #   date: 2024-09-12T11:00
+  #   links:
+  #     - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/6.pdf
+  #       name: slides
+  #   main:
+  #     - url: "https://arxiv.org/abs/2005.14165"
+  #       title: "Language Models are Few-Shot Learners"
 
   - number: 6
     title: Language Model Architectures (Invited Lecture by Ruohong Zhang)
@@ -91,7 +91,7 @@ schedule:
         title: "Language Models are Few-Shot Learners"
 
   - number: 7
-    title: "Scalable Alignment of Large Language Models Towards Human-Valued Principles, Truthfulness and Complex Reasoning (Invited Lectured by Zhiqing Sun)"
+    title: "Scalable Alignment of Large Language Models (Invited Lectured by  <a href="https://www.cs.cmu.edu/~zhiqings/">Zhiqing Sun</a>)"
     theme: DL6
     kind: Guest Speaker
     date: 2024-09-17T11:00
