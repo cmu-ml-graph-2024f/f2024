@@ -316,16 +316,17 @@ schedule:
       - title: <b> Due 4/25 11:59PM </b>
 
   - number: 23
-    title: "Improving the Scalability of Graph Neural Networks (by Dr. Neil Shah at Snap Research)"
+#    title: "Improving the Scalability of Graph Neural Networks (by Dr. Neil Shah at Snap Research)"
+    title: "Neural Network Solvers for Integer Linear Programming (guest lecture by Shengyu Feng)"
     theme: Graph 12
     kind: Guest Speaker
     date: 2024-11-21T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/23.pdf
         name: slides
-    main:
-      - url: https:https://arxiv.org/pdf/2109.12843.pdf
-        title: "A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions"
+#   main:
+#     - url: https:https://arxiv.org/pdf/2109.12843.pdf
+#       title: "A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions"
 
   - number: 24
     title: "Reasoning with Heterogeneous Graphs (I)"
