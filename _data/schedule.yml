@@ -214,13 +214,13 @@ schedule:
       - url: https://arxiv.org/pdf/1403.6652.pdf
         title: "DeepWalk: Online Learning of Social Representations"
 
-  - number: 15
+  - number: 16
     title: "Graph Neural Networks (I)"
     theme: Graph 5
     kind: Lecture
-    date: 2024-10-24T11:00
+    date: 2024-10-29T11:00
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/15.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/16.pdf
         name: slides
     main:
       - url: https://arxiv.org/pdf/1609.02907.pdf
@@ -231,13 +231,13 @@ schedule:
       - title: <b> HW4. Graph-based prediction tasks. </b>
       - title: <b> Due 4/9 11:59PM </b>
 
-  - number: 16
+  - number: 17
     title: "Graph Neural Networks (II)"
     theme: Graph 6
     kind: Lecture
-    date: 2024-10-29T11:00
+    date: 2024-10-31T11:00
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/16.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/17.pdf
         name: slides
     main:
       - url: https://arxiv.org/abs/1810.00826
@@ -245,38 +245,38 @@ schedule:
       - url: https://dl.acm.org/doi/pdf/10.1145/3442381.3449925
         title: "Knowledge Embedding based GCN (WWW 2021)"
 
-  - number: 17
+  - number: 18
     title: "Knowledge Graph Embedding (I): TransE, RotatE (Invited Lectured by Zhiqing Sun)"
     theme: Graph 7
     kind: Guest Speaker
-    date: 2024-10-31T11:00
-    links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/17.pdf
-        name: slides
-    main:
-      - url: https://arxiv.org/pdf/1902.10197.pdf
-        title: "RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space"
-      
-  - number: 18
-    title: "Knowledge Graph Embedding (II): Analogy"
-    # title: "ML for NP-Complete Problems (II): with RNN, Transformer, Active Search"
-    theme: Graph 8
-    kind: Lecture
     date: 2024-11-05T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/18.pdf
         name: slides
     main:
-      - url: https://arxiv.org/abs/1705.02426
-        title: "Analogical Inference for Multi-Relational Embeddings"
+      - url: https://arxiv.org/pdf/1902.10197.pdf
+        title: "RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space"
       
   - number: 19
-    title: "ML for NP-Complete Problems (I): Autoregressive Neural Solvers"
-    theme: Graph 9
+    title: "Knowledge Graph Embedding (II): Analogy"
+    # title: "ML for NP-Complete Problems (II): with RNN, Transformer, Active Search"
+    theme: Graph 8
     kind: Lecture
     date: 2024-11-07T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/19.pdf
+        name: slides
+    main:
+      - url: https://arxiv.org/abs/1705.02426
+        title: "Analogical Inference for Multi-Relational Embeddings"
+      
+  - number: 20
+    title: "ML for NP-Complete Problems (I): Autoregressive Neural Solvers"
+    theme: Graph 9
+    kind: Lecture
+    date: 2024-11-12T11:00
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/20.pdf
         name: slides
     main:
       - url: https://arxiv.org/abs/2006.07054
@@ -286,13 +286,13 @@ schedule:
       - url: https://arxiv.org/pdf/1810.10659.pdf
         title: "Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search"
 
-  - number: 20
+  - number: 21
     title: "ML for NP-Complete Problems (II): Non-autoregressive Neural Solvers"
     theme: Graph 10
     kind: Lecture
-    date: 2024-11-12T11:00
+    date: 2024-11-14T11:00
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/20.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/21.pdf
         name: slides
     main:
      - url: https://arxiv.org/abs/2210.04123
@@ -300,13 +300,13 @@ schedule:
      - url: https://arxiv.org/abs/2302.08224
        title: "DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization"
 
-  - number: 21
+  - number: 22
     title: "ML for NP-Complete Problems (III): Other Neural CO Solvers (LLMs)"
     theme: Graph 11
     kind: Lecture
-    date: 2024-11-14T11:00
+    date: 2024-11-19T11:00
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/21.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/22.pdf
         name: slides
     main:
       - url: https://arxiv.org/abs/2309.03409
