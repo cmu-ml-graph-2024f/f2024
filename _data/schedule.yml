@@ -171,7 +171,7 @@ schedule:
       - title: <b> HW3. PageRank methods. </b>
       - title: <b> Due 3/26 11:59PM </b>
       
-   - number: ""
+  - number: ""
     title: ""
     theme: <mark><b> Midterm Exam on Lectures 1-13 </b></mark>
     kind: Exam
