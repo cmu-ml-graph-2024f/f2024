@@ -129,11 +129,11 @@ schedule:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/Papers/Shalev-icml2007-subgradient.pdf
         title: "Pegasos: Primal Estimated sub-GrAdient SOlver for SVM"
 
-  - number: 10
+  - number: 11
     title: Extreme-scale Neural Classifiers (XTransformer, AttentionXML)
     theme: CLS4
     kind: Lecture
-    date: 2024-09-26T11:00
+    date: 2024-10-01T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/10.pdf
         name: slides
@@ -143,11 +143,11 @@ schedule:
       - url: https://arxiv.org/pdf/1905.02331.pdf
         title: "Taming Pretrained Transformers for Extreme Multi-label Text Classification"
 
-  - number: 11
+  - number: 12
     title: "Social Popularity Analysis I: HITS & PageRank"
     theme: Graph 1
     kind: Lecture
-    date: 2024-10-01T11:00
+    date: 2024-10-03T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/11.pdf
         name: slides
@@ -157,11 +157,11 @@ schedule:
       - url: https://www.cs.cornell.edu/home/kleinber/auth.pdf
         title: "Authoritative Sources in a Hyperlinked Environment"
 
-  - number: 12
+  - number: 13
     title: "Social Popularity Analysis II: Personalized & Topic-sensitive PageRank"
     theme: Graph 2
     kind: Lecture
-    date: 2024-10-03T11:00
+    date: 2024-10-08T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/12.pdf
         name: slides
@@ -172,15 +172,7 @@ schedule:
       - title: <b> HW3. PageRank methods. </b>
       - title: <b> Due 3/26 11:59PM </b>
       
-  - number: 13
-    title: "Matrix Factorization (Eigendecompostion and SVD)"
-    theme: Graph 3
-    kind: Lecture
-    date: 2024-10-08T11:00
-    links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/13.pdf
-        name: slides
-        
+ 
   - number: ""
     title: ""
     theme: <mark><b> Midterm Exam on Lectures 1-13 </b></mark>
@@ -188,6 +180,7 @@ schedule:
     date: 2024-10-10T11:00
     note:
       - title: in the same classroom and time slot as a regular class
+
 
   - number: ""
     title: Fall break
@@ -200,7 +193,16 @@ schedule:
     theme: Fall break
     kind: Fall break
     date: 2024-10-17T11:00
-    
+
+       - number: 14
+    title: "Matrix Factorization (Eigendecompostion and SVD)"
+    theme: Graph 3
+    kind: Lecture
+    date: 2024-10-08T11:00
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/13.pdf
+        name: slides
+  
   - number: 14
     title: "Node Embedding"
     theme: Graph 4
