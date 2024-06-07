@@ -91,7 +91,7 @@ schedule:
         title: "Language Models are Few-Shot Learners"
 
   - number: 7
-    title: "Scalable Alignment of Large Language Models (Invited Lectured by  <a href="https://www.cs.cmu.edu/~zhiqings/">Zhiqing Sun</a>)"
+    title: "Scalable Alignment of Large Language Models (Invited Lectured by  <a href="https://www.cs.cmu.edu/~zhiqings/" target="_blank">Zhiqing Sun</a>)"
     theme: DL6
     kind: Guest Speaker
     date: 2024-09-17T11:00
