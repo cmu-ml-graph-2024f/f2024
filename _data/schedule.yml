@@ -172,15 +172,13 @@ schedule:
       - title: <b> HW3. PageRank methods. </b>
       - title: <b> Due 3/26 11:59PM </b>
       
- 
-  - number: ""
+   - number: ""
     title: ""
     theme: <mark><b> Midterm Exam on Lectures 1-13 </b></mark>
     kind: Exam
     date: 2024-10-10T11:00
     note:
       - title: in the same classroom and time slot as a regular class
-
 
   - number: ""
     title: Fall break
@@ -194,7 +192,7 @@ schedule:
     kind: Fall break
     date: 2024-10-17T11:00
 
-       - number: 14
+  - number: 14
     title: "Matrix Factorization (Eigendecompostion and SVD)"
     theme: Graph 3
     kind: Lecture
