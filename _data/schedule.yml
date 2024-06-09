@@ -65,19 +65,6 @@ schedule:
       - url: https://arxiv.org/abs/1706.03762
         title: "Attention Is All You Need"
 
-
-  # - number: 6
-  #   title: Language Model Architectures (Invited Lecture by Ruohong Zhang)
-  #   theme: DL5
-  #   kind: Guest speaker
-  #   date: 2024-09-12T11:00
-  #   links:
-  #     - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/6.pdf
-  #       name: slides
-  #   main:
-  #     - url: "https://arxiv.org/abs/2005.14165"
-  #       title: "Language Models are Few-Shot Learners"
-
   - number: 6
     title: Language Model Architectures (Invited Lecture by Ruohong Zhang)
     theme: DL5
@@ -91,7 +78,7 @@ schedule:
         title: "Language Models are Few-Shot Learners"
 
   - number: 7
-    title: "Scalable Alignment of Large Language Models (Invited Lectured by  <a href='https://www.cs.cmu.edu/~zhiqings/' target='_blank'>Zhiqing Sun</a>)"
+    title: "Scalable Alignment of Large Language Models (Invited Lecture by  <a href='https://www.cs.cmu.edu/~zhiqings/' target='_blank'>Zhiqing Sun</a>)"
     theme: DL6
     kind: Guest Speaker
     date: 2024-09-17T11:00
@@ -127,7 +114,6 @@ schedule:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/9.pdf
         name: slides
 
-
   - number: 10
     title: "Stochastic Gradient Descent (SGD), Evaluation Metrics"
     theme: CLS3
@@ -140,13 +126,13 @@ schedule:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/Papers/Shalev-icml2007-subgradient.pdf
         title: "Pegasos: Primal Estimated sub-GrAdient SOlver for SVM"
 
-  - number: 10
+  - number: 11
     title: Extreme-scale Neural Classifiers (XTransformer, AttentionXML)
     theme: CLS4
     kind: Lecture
-    date: 2024-09-26T11:00
+    date: 2024-10-01T11:00
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/10.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/11.pdf
         name: slides
     main:
       - url: https://arxiv.org/pdf/1811.01727.pdf
@@ -154,13 +140,13 @@ schedule:
       - url: https://arxiv.org/pdf/1905.02331.pdf
         title: "Taming Pretrained Transformers for Extreme Multi-label Text Classification"
 
-  - number: 11
+  - number: 12
     title: "Social Popularity Analysis I: HITS & PageRank"
     theme: Graph 1
     kind: Lecture
-    date: 2024-10-01T11:00
+    date: 2024-10-03T11:00
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/11.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/12.pdf
         name: slides
     main:
       - url: https://www.cs.cmu.edu/~christos/courses/826-resources/PAPERS+BOOK/google-anatomy.pdf
@@ -168,13 +154,13 @@ schedule:
       - url: https://www.cs.cornell.edu/home/kleinber/auth.pdf
         title: "Authoritative Sources in a Hyperlinked Environment"
 
-  - number: 12
+  - number: 13
     title: "Social Popularity Analysis II: Personalized & Topic-sensitive PageRank"
     theme: Graph 2
     kind: Lecture
-    date: 2024-10-03T11:00
+    date: 2024-10-08T11:00
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/12.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/13.pdf
         name: slides
     main:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/Papers/haveliwala-www02-tspr.pdf
@@ -183,15 +169,6 @@ schedule:
       - title: <b> HW3. PageRank methods. </b>
       - title: <b> Due 10/24 11:59PM </b>
       
-  - number: 13
-    title: "Matrix Factorization (Eigendecompostion and SVD)"
-    theme: Graph 3
-    kind: Lecture
-    date: 2024-10-08T11:00
-    links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/13.pdf
-        name: slides
-        
   - number: ""
     title: ""
     theme: <mark><b> Midterm Exam on Lectures 1-13 </b></mark>
@@ -211,14 +188,23 @@ schedule:
     theme: Fall break
     kind: Fall break
     date: 2024-10-17T11:00
-    
+
   - number: 14
-    title: "Node Embedding"
-    theme: Graph 4
+    title: "Matrix Factorization (Eigendecompostion and SVD)"
+    theme: Graph 3
     kind: Lecture
     date: 2024-10-22T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/14.pdf
+        name: slides
+  
+  - number: 15
+    title: "Node Embedding"
+    theme: Graph 4
+    kind: Lecture
+    date: 2024-10-24T11:00
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/15.pdf
         name: slides
     main:
       - url: https://proceedings.neurips.cc/paper/2001/file/f106b7f99d2cb30c3db1c3cc0fde9ccb-Paper.pdf
@@ -226,13 +212,13 @@ schedule:
       - url: https://arxiv.org/pdf/1403.6652.pdf
         title: "DeepWalk: Online Learning of Social Representations"
 
-  - number: 15
+  - number: 16
     title: "Graph Neural Networks (I)"
     theme: Graph 5
     kind: Lecture
-    date: 2024-10-24T11:00
+    date: 2024-10-29T11:00
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/15.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/16.pdf
         name: slides
     main:
       - url: https://arxiv.org/pdf/1609.02907.pdf
@@ -243,13 +229,13 @@ schedule:
       - title: <b> HW4. Graph-based prediction tasks. </b>
       - title: <b> Due 11/7 11:59PM </b>
 
-  - number: 16
+  - number: 17
     title: "Graph Neural Networks (II)"
     theme: Graph 6
     kind: Lecture
-    date: 2024-10-29T11:00
+    date: 2024-10-31T11:00
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/16.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/17.pdf
         name: slides
     main:
       - url: https://arxiv.org/abs/1810.00826
@@ -257,38 +243,38 @@ schedule:
       - url: https://dl.acm.org/doi/pdf/10.1145/3442381.3449925
         title: "Knowledge Embedding based GCN (WWW 2021)"
 
-  - number: 17
+  - number: 18
     title: "Knowledge Graph Embedding (I): TransE, RotatE (Invited Lectured by Zhiqing Sun)"
     theme: Graph 7
     kind: Guest Speaker
-    date: 2024-10-31T11:00
-    links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/17.pdf
-        name: slides
-    main:
-      - url: https://arxiv.org/pdf/1902.10197.pdf
-        title: "RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space"
-      
-  - number: 18
-    title: "Knowledge Graph Embedding (II): Analogy"
-    # title: "ML for NP-Complete Problems (II): with RNN, Transformer, Active Search"
-    theme: Graph 8
-    kind: Lecture
     date: 2024-11-05T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/18.pdf
         name: slides
     main:
-      - url: https://arxiv.org/abs/1705.02426
-        title: "Analogical Inference for Multi-Relational Embeddings"
+      - url: https://arxiv.org/pdf/1902.10197.pdf
+        title: "RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space"
       
   - number: 19
-    title: "ML for NP-Complete Problems (I): Autoregressive Neural Solvers"
-    theme: Graph 9
+    title: "Knowledge Graph Embedding (II): Analogy"
+    # title: "ML for NP-Complete Problems (II): with RNN, Transformer, Active Search"
+    theme: Graph 8
     kind: Lecture
     date: 2024-11-07T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/19.pdf
+        name: slides
+    main:
+      - url: https://arxiv.org/abs/1705.02426
+        title: "Analogical Inference for Multi-Relational Embeddings"
+      
+  - number: 20
+    title: "ML for NP-Complete Problems (I): Autoregressive Neural Solvers"
+    theme: Graph 9
+    kind: Lecture
+    date: 2024-11-12T11:00
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/20.pdf
         name: slides
     main:
       - url: https://arxiv.org/abs/2006.07054
@@ -301,13 +287,13 @@ schedule:
       - title: <b> HW5. Node Embedding with TransE. </b>
       - title: <b> Due 11/26 11:59PM </b>
 
-  - number: 20
+  - number: 21
     title: "ML for NP-Complete Problems (II): Non-autoregressive Neural Solvers"
     theme: Graph 10
     kind: Lecture
-    date: 2024-11-12T11:00
+    date: 2024-11-14T11:00
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/20.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/21.pdf
         name: slides
     main:
      - url: https://arxiv.org/abs/2210.04123
@@ -315,41 +301,30 @@ schedule:
      - url: https://arxiv.org/abs/2302.08224
        title: "DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization"
 
-  - number: 21
+  - number: 22
     title: "ML for NP-Complete Problems (III): Other Neural CO Solvers (LLMs)"
     theme: Graph 11
     kind: Lecture
-    date: 2024-11-14T11:00
-    links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/21.pdf
-        name: slides
-    main:
-      - url: https://arxiv.org/abs/2309.03409
-        title: "Large Language Models as Optimizers"
-
-  - number: 22
-    title: "Improving the Scalability of Graph Neural Networks (by Dr. Neil Shah at Snap Research)"
-    theme: Graph 12
-    kind: Guest Speaker
     date: 2024-11-19T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/22.pdf
         name: slides
     main:
-      - url: https:https://arxiv.org/pdf/2109.12843.pdf
-        title: "A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions"
+      - url: https://arxiv.org/abs/2309.03409
+        title: "Large Language Models as Optimizers"
 
   - number: 23
-    title: "Machine Learning on Graph for Recommendation: User Coldstart, Exploration, and Efficiency (invited lecture by Dr. Yinglong Xia from Meta)"
-    theme: Graph 13
+#    title: "Improving the Scalability of Graph Neural Networks (by Dr. Neil Shah at Snap Research)"
+    title: "Neural Network Solvers for Integer Linear Programming (Invited Lecture by Shengyu Feng)"
+    theme: Graph 12
     kind: Guest Speaker
     date: 2024-11-21T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/23.pdf
         name: slides
-   # main:
-   #  - url: https://arxiv.org
-   #    title: "TBD"
+#   main:
+#     - url: https:https://arxiv.org/pdf/2109.12843.pdf
+#       title: "A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions"
 
   - number: 24
     title: "Reasoning with Heterogeneous Graphs (I)"
@@ -366,8 +341,8 @@ schedule:
         title: "Do Transformers Really Perform Bad for Graph Representation?"
 
   - number: ""
-    title: Thanksgiving Break (No class)
-    theme: Thanksgiving Break (No class)
+    title: Thanksgiving Break (No Class)
+    theme: Thanksgiving Break (No Class)
     kind: No class
     date: 2024-11-28T11:00
 
