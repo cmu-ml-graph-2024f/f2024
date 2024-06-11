@@ -328,7 +328,7 @@ schedule:
 
   - number: 24
     title: "Reasoning with Heterogeneous Graphs (I)"
-    theme: Graph 14
+    theme: Graph 13
     kind: Lecture
     date: 2024-11-26T11:00
     links:
@@ -348,7 +348,7 @@ schedule:
 
   - number: 25
     title: "Reasoning with Heterogeneous Graphs (II)"
-    theme: Graph 15
+    theme: Graph 14
     kind: Lecture
     date: 2024-12-03T11:00
     links:
