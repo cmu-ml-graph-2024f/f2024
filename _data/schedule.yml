@@ -229,22 +229,19 @@ schedule:
       - url: https://dl.acm.org/doi/pdf/10.1145/3442381.3449925
         title: "Knowledge Embedding based GCN (WWW 2021)"
 
-
-  - number: 11
-    title: Extreme-scale Neural Classifiers (XTransformer, AttentionXML)
-    theme: CLS4
+  - number: 17
+    title: "Recommender Systems"
+    theme: Graph 7
     kind: Lecture
-    date: 2024-10-01T11:00
+    date: 2024-10-31T11:00
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/11.pdf
-        name: slides
+      - url: (TBD)
+        name: (TBD)
     main:
-      - url: https://arxiv.org/pdf/1811.01727.pdf
-        title: "AttentionXML: Label Tree-based Attention-Aware Deep Model for High-Performance Extreme Multi-Label Text Classification"
-      - url: https://arxiv.org/pdf/1905.02331.pdf
-        title: "Taming Pretrained Transformers for Extreme Multi-label Text Classification"
-
-
+      - url: TBD
+        title: TBD
+      - url: TBD
+        title: TBD
 
   - number: 18
     title: "Knowledge Graph Embedding (I): TransE, RotatE (Invited Lectured by Zhiqing Sun)"
