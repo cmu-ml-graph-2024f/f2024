@@ -126,20 +126,6 @@ schedule:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/Papers/Shalev-icml2007-subgradient.pdf
         title: "Pegasos: Primal Estimated sub-GrAdient SOlver for SVM"
 
-  - number: 11
-    title: Extreme-scale Neural Classifiers (XTransformer, AttentionXML)
-    theme: CLS4
-    kind: Lecture
-    date: 2024-10-01T11:00
-    links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/11.pdf
-        name: slides
-    main:
-      - url: https://arxiv.org/pdf/1811.01727.pdf
-        title: "AttentionXML: Label Tree-based Attention-Aware Deep Model for High-Performance Extreme Multi-Label Text Classification"
-      - url: https://arxiv.org/pdf/1905.02331.pdf
-        title: "Taming Pretrained Transformers for Extreme Multi-label Text Classification"
-
   - number: 12
     title: "Social Popularity Analysis I: HITS & PageRank"
     theme: Graph 1
@@ -242,6 +228,23 @@ schedule:
         title: "How Powerful are Graph Neural Networks?"
       - url: https://dl.acm.org/doi/pdf/10.1145/3442381.3449925
         title: "Knowledge Embedding based GCN (WWW 2021)"
+
+
+  - number: 11
+    title: Extreme-scale Neural Classifiers (XTransformer, AttentionXML)
+    theme: CLS4
+    kind: Lecture
+    date: 2024-10-01T11:00
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/11.pdf
+        name: slides
+    main:
+      - url: https://arxiv.org/pdf/1811.01727.pdf
+        title: "AttentionXML: Label Tree-based Attention-Aware Deep Model for High-Performance Extreme Multi-Label Text Classification"
+      - url: https://arxiv.org/pdf/1905.02331.pdf
+        title: "Taming Pretrained Transformers for Extreme Multi-label Text Classification"
+
+
 
   - number: 18
     title: "Knowledge Graph Embedding (I): TransE, RotatE (Invited Lectured by Zhiqing Sun)"
