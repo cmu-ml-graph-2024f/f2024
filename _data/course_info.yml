@@ -14,8 +14,7 @@ course_dept: LTI
 course_num: 11-741/11-441
 classes: Tuesdays and Thursdays 11:00am - 12:20pm
 room: HH B131
-office_hours: See <a href="https://piazza.com/cmu/spring2024/11441741/home">Piazza</a>
-  - Shengyu: GHC 5th floor, Monday 2:00 pm to 3:00pm 
+office_hours: Also in <a href="https://piazza.com/cmu/spring2024/11441741/home">Piazza</a>  
 schoolname: "Carnegie Mellon University"
 schoolurl: "https://www.cmu.edu/"
 
@@ -29,6 +28,7 @@ teaching_assistants:
   - name: Shengyu Feng
     profile_pic: /_images/site/shengyu.jpg
     webpage: https://shengyu-feng.github.io/
+    office_hours: GHC 5th floor, Monday 2:00 pm to 3:00pm
 #  - name: Zekai Li
 #    profile_pic: /_images/site/zekai.jpeg
 #    webpage: https://www.linkedin.com/in/zekaili22

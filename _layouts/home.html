@@ -63,7 +63,21 @@ layout: default
             <li>Class times: {{ site.data.course_info.classes }} </li>
             <li>Room: {{ site.data.course_info.room }} </li>
             <li>Course identifier: {{ site.data.course_info.course_dept }} {{ site.data.course_info.course_num }} </li>
-            <li>Office hours: {{ site.data.course_info.office_hours }} </li>
+            <li>Office hours: {{ site.data.course_info.office_hours }} 
+		<ul>                
+		{% for ins in site.data.course_info.instructors %}
+		{% if ins.office_hours%}
+                <li>{{ins.name}}: {{ins.office_hours}} </li>
+                {% endif %}
+		{%endfor %}
+		{% for ta in site.data.course_info.teaching_assistants %}
+                {% if ta.office_hours%}
+                <li>{{ta.name}}: {{ta.office_hours}} </li>
+                {% endif %}
+                {% endfor %}
+			
+		</ul>
+	    </li>
         </ul>
     </div>
     <!-- </div>
