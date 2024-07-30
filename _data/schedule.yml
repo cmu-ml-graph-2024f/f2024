@@ -85,9 +85,7 @@ schedule:
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/7.pdf
         name: slides
-#    main:
-#      - url: https://www.youtube.com/watch?v=4u81xU7BIOc
-#       title: "Andrew Ng 01 Classification 8 min"
+
 
   - number: 8
     title: "Binary Logistic Regression"
@@ -257,7 +255,6 @@ schedule:
       
   - number: 19
     title: "Knowledge Graph Embedding (II): Analogy"
-    # title: "ML for NP-Complete Problems (II): with RNN, Transformer, Active Search"
     theme: Graph 8
     kind: Lecture
     date: 2024-11-07T11:00
@@ -314,7 +311,6 @@ schedule:
         title: "Large Language Models as Optimizers"
 
   - number: 23
-#    title: "Improving the Scalability of Graph Neural Networks (by Dr. Neil Shah at Snap Research)"
     title: "Neural Network Solvers for Integer Linear Programming (Invited Lecture by Shengyu Feng)"
     theme: Graph 12
     kind: Guest Speaker
@@ -322,9 +318,6 @@ schedule:
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/23.pdf
         name: slides
-#   main:
-#     - url: https:https://arxiv.org/pdf/2109.12843.pdf
-#       title: "A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions"
 
   - number: 24
     title: "Reasoning with Heterogeneous Graphs (I)"
