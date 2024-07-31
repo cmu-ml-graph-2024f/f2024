@@ -128,7 +128,7 @@ schedule:
     title: "Social Popularity Analysis I: HITS & PageRank"
     theme: Graph 1
     kind: Lecture
-    date: 2024-10-03T11:00
+    date: 2024-10-01T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/12.pdf
         name: slides
@@ -142,7 +142,7 @@ schedule:
     title: "Social Popularity Analysis II: Personalized & Topic-sensitive PageRank"
     theme: Graph 2
     kind: Lecture
-    date: 2024-10-08T11:00
+    date: 2024-10-03T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/13.pdf
         name: slides
@@ -157,7 +157,7 @@ schedule:
     title: "Matrix Factorization (Eigendecompostion and SVD)"
     theme: Graph 3
     kind: Lecture
-    date: 2024-10-22T11:00
+    date: 2024-10-08T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/14.pdf
         name: slides
@@ -182,11 +182,11 @@ schedule:
     kind: Fall break
     date: 2024-10-17T11:00
   
-  - number: 15
+  - number: 14
     title: "Node Embedding"
     theme: Graph 4
     kind: Lecture
-    date: 2024-10-24T11:00
+    date: 2024-10-22T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/15.pdf
         name: slides
@@ -196,11 +196,11 @@ schedule:
       - url: https://arxiv.org/pdf/1403.6652.pdf
         title: "DeepWalk: Online Learning of Social Representations"
 
-  - number: 16
+  - number: 15
     title: "Graph Neural Networks (I)"
     theme: Graph 5
     kind: Lecture
-    date: 2024-10-29T11:00
+    date: 2024-10-24T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/16.pdf
         name: slides
@@ -213,11 +213,11 @@ schedule:
       - title: <b> HW4. Graph-based prediction tasks. </b>
       - title: <b> Due 11/7 11:59PM </b>
 
-  - number: 17
+  - number: 16
     title: "Graph Neural Networks (II)"
     theme: Graph 6
     kind: Lecture
-    date: 2024-10-31T11:00
+    date: 2024-10-29T11:00
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/17.pdf
         name: slides
