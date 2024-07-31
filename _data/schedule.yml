@@ -124,7 +124,7 @@ schedule:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/Papers/Shalev-icml2007-subgradient.pdf
         title: "Pegasos: Primal Estimated sub-GrAdient SOlver for SVM"
 
-  - number: 12
+  - number: 11
     title: "Social Popularity Analysis I: HITS & PageRank"
     theme: Graph 1
     kind: Lecture
@@ -138,7 +138,7 @@ schedule:
       - url: https://www.cs.cornell.edu/home/kleinber/auth.pdf
         title: "Authoritative Sources in a Hyperlinked Environment"
 
-  - number: 13
+  - number: 12
     title: "Social Popularity Analysis II: Personalized & Topic-sensitive PageRank"
     theme: Graph 2
     kind: Lecture
