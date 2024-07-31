@@ -152,6 +152,15 @@ schedule:
     homework:
       - title: <b> HW3. PageRank methods. </b>
       - title: <b> Due 10/24 11:59PM </b>
+
+  - number: 13
+    title: "Matrix Factorization (Eigendecompostion and SVD)"
+    theme: Graph 3
+    kind: Lecture
+    date: 2024-10-22T11:00
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/14.pdf
+        name: slides
       
   - number: ""
     title: ""
@@ -172,15 +181,6 @@ schedule:
     theme: Fall break
     kind: Fall break
     date: 2024-10-17T11:00
-
-  - number: 14
-    title: "Matrix Factorization (Eigendecompostion and SVD)"
-    theme: Graph 3
-    kind: Lecture
-    date: 2024-10-22T11:00
-    links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f24/Lectures/14.pdf
-        name: slides
   
   - number: 15
     title: "Node Embedding"
