@@ -9,6 +9,7 @@ course_materials: <b> No textbook is used in this course. Instead, relevant pape
 exams: Open-book midterm and final exams, with a set of questions (about 10) and a list of possible answers to choose from per question.  Mid-term exam will cover the lecture contents in the 1st half of the semester, and the final exam will cover the lecture contents in the 2nd half. The exams will not focus on the contents of the HW assignments.
 
 # Logistics
+logistics:
 course_semester: "Fall 2024"
 course_dept: LTI
 course_num: 11-741/11-441
