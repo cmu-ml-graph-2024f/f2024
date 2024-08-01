@@ -6,7 +6,7 @@ course_summary: "Graphs offer a natural way to represent complex relationships a
 # Course description
 prerequisites: CS courses on data structures, algorithms, programming (e.g., 15-213), linear algebra (e.g., 21-241 or 21-341), and introductory probability (e.g., 21-325). Introductory Machine Learning (e.g., 10-701 or 10-601) and neural network courses will be helpful but not required.
 course_materials: <b> No textbook is used in this course. Instead, relevant papers/readings are listed as references.  Course slides and reading material are available online for registered students who will be given the user ID and password. </b>
-exams: Open-book midterm and final exams, with a set of questions (about 10) and a list of possible answers to choose from per question.  Mid-term exam will cover the lecture contents in the 1st half of the semester, and the final exam will cover the lecture contents in the 2nd half. The exams will not focus on the contents of the HW assignments.
+exams: Open-book midterm and final exams, with a set of questions (about 10) and a list of possible answers to choose from per question.  Mid-term exam will cover the lecture contents in the 1st half of the semester, and the final exam will cover the lecture contents in the 2nd half. The exams will not focus on the contents of the HW assignments. ●	No make-up exam will be arranged. That is, for those who cannot come to the exams as pre-specified in the syllabus, they just lose the exam scores
 
 # Logistics
 logistics:
