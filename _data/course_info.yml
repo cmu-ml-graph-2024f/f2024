@@ -34,7 +34,8 @@ Teaching_assistants:
 #    profile_pic: /_images/site/zekai.jpeg
 #    webpage: https://www.linkedin.com/in/zekaili22
 
-Homework (Programming Assignments) 
+# Homework (Programming Assignments) 
+homework:
   - HW1. Implementing neural networks (CNN and RNN) for binary classification with word embedding on the Yelp review dataset and using software like TensorFlow or Keras.
   - HW2. Implementing soft-max logistic regression for multi-class classification of Yelp reviews, with the derivation of the gradients of the loss functions.
   - HW3. Implementing PageRank, Personalized PageRank and Query Sensitive PageRank methods for web-page popularity analysis and evaluating their retrieval performance on the CiteEval dataset.
