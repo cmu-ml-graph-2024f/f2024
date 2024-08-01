@@ -20,12 +20,12 @@ schoolname: "Carnegie Mellon University"
 schoolurl: "https://www.cmu.edu/"
 
 # Instructors
-Instructors:
+instructors:
   - name: Yiming Yang
     profile_pic: /_images/site/yiming.jpeg
     webpage: https://www.cs.cmu.edu/~./yiming/
 
-Teaching_assistants:
+teaching_assistants:
   - name: Shengyu Feng
     profile_pic: /_images/site/shengyu.jpg
     webpage: https://shengyu-feng.github.io/
