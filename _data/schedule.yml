@@ -227,21 +227,7 @@ schedule:
       - url: https://dl.acm.org/doi/pdf/10.1145/3442381.3449925
         title: "Knowledge Embedding based GCN (WWW 2021)"
 
-  - number: 17
-    title: "Recommender Systems"
-    theme: Graph 7
-    kind: Lecture
-    date: 2024-10-31T11:00
-    links:
-      - url: (TBD)
-        name: (TBD)
-    main:
-      - url: TBD
-        title: TBD
-      - url: TBD
-        title: TBD
-
-  - number: 18
+   - number: 17
     title: "Knowledge Graph Embedding (I): TransE, RotatE (Invited Lectured by Zhiqing Sun)"
     theme: Graph 7
     kind: Guest Speaker
@@ -253,7 +239,7 @@ schedule:
       - url: https://arxiv.org/pdf/1902.10197.pdf
         title: "RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space"
       
-  - number: 19
+  - number: 18
     title: "Knowledge Graph Embedding (II): Analogy"
     theme: Graph 8
     kind: Lecture
@@ -264,10 +250,25 @@ schedule:
     main:
       - url: https://arxiv.org/abs/1705.02426
         title: "Analogical Inference for Multi-Relational Embeddings"
+    
+  - number: 19
+    title: "Recommender Systems"
+    theme: Graph 9
+    kind: Lecture
+    date: 2024-10-31T11:00
+    links:
+      - url: (TBD)
+        name: (TBD)
+    main:
+      - url: TBD
+        title: TBD
+      - url: TBD
+        title: TBD
+
       
   - number: 20
     title: "ML for NP-Complete Problems (I): Autoregressive Neural Solvers"
-    theme: Graph 9
+    theme: Graph 10
     kind: Lecture
     date: 2024-11-12T11:00
     links:
@@ -286,7 +287,7 @@ schedule:
 
   - number: 21
     title: "ML for NP-Complete Problems (II): Non-autoregressive Neural Solvers"
-    theme: Graph 10
+    theme: Graph 11
     kind: Lecture
     date: 2024-11-14T11:00
     links:
@@ -300,7 +301,7 @@ schedule:
 
   - number: 22
     title: "ML for NP-Complete Problems (III): Other Neural CO Solvers (LLMs)"
-    theme: Graph 11
+    theme: Graph 12
     kind: Lecture
     date: 2024-11-19T11:00
     links:
@@ -311,8 +312,8 @@ schedule:
         title: "Large Language Models as Optimizers"
 
   - number: 23
-    title: "Neural Network Solvers for Integer Linear Programming (Invited Lecture by Shengyu Feng)"
-    theme: Graph 12
+    title: "ML for NP-Complete Problems (IV): Neural Network Solvers for Integer Linear Programming"
+    theme: Graph 13
     kind: Guest Speaker
     date: 2024-11-21T11:00
     links:
@@ -321,7 +322,7 @@ schedule:
 
   - number: 24
     title: "Reasoning with Heterogeneous Graphs (I)"
-    theme: Graph 13
+    theme: Graph 15
     kind: Lecture
     date: 2024-11-26T11:00
     links:
@@ -341,7 +342,7 @@ schedule:
 
   - number: 25
     title: "Reasoning with Heterogeneous Graphs (II)"
-    theme: Graph 14
+    theme: Graph 15
     kind: Lecture
     date: 2024-12-03T11:00
     links:
